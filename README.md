@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently curious about everything<br>💬 Ask me about data<br>⚡ Fun fact I love family walks with my dog Jack (a Collie)
-
+🔭 I'm currently curious about everything.<br>💬 Ask me about software engineering.<br>⚡ Fun fact I love family.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermopizarro/) [![Twitter](https://img.shields.io/badge/X-%2307405e.svg?logo=X&logoColor=white)](https://x.com/omarjcm) 
@@ -14,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guillermopizarro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=guillermopizarro)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=omarjcm&theme=dracula&response=true&border=true&time=true&icon=default)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
